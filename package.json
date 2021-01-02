@@ -1,0 +1,22 @@
+{
+  "name": "rumuslog",
+  "version": "1.0.0",
+  "description": "check first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarnaukhKonstantin/rumuslog.git"
+  },
+  "keywords": [
+    "check"
+  ],
+  "author": "rumus dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarnaukhKonstantin/rumuslog/issues"
+  },
+  "homepage": "https://github.com/KarnaukhKonstantin/rumuslog#readme"
+}

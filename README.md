@@ -14,4 +14,4 @@ import {rumuslog} from 'rumuslog';
 
 # Options
 
-None. This function consist only the console.log 
+* None. This function consist only the console.log 
